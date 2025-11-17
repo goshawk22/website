@@ -51,3 +51,7 @@ We're currently waiting for the new PCBs to be delivered and hope to launch the 
 ## Update 03/11/25
 
 After 9 days of silence, the balloon reappeared in Eastern Russia. Unfortunately, predictions show it will drift north again.
+
+## Update 17/11/25
+
+After 13 days of silence, the balloon reappeared on 16/11 just 655km from where we last heard from it. This time, predictions are somewhat inconsistent, but it seems possible it will finally drift further south.
