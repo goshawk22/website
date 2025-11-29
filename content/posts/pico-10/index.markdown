@@ -55,3 +55,7 @@ After 9 days of silence, the balloon reappeared in Eastern Russia. Unfortunately
 ## Update 17/11/25
 
 After 13 days of silence, the balloon reappeared on 16/11 just 655km from where we last heard from it. This time, predictions are somewhat inconsistent, but it seems possible it will finally drift further south.
+
+## Update 29/11/25
+
+The last prediction was wrong and the balloon traveled north again. After 10 days of silence, it reappeared on 28/11 north of Mongolia. It has since drifted north again. It has now been airborne for 2 months.
