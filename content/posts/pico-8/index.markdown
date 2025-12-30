@@ -42,4 +42,4 @@ On 03/09/2025, the balloon completed its first lap of the world. Unfortunately, 
 ## New tracking website
 Around this time, we also starting using our own tracking website, based on the work by the developer at [wsprtv.com](https://wsprtv.com). This allowed us to process the data before displaying it, meaning we can make better use of the extended telemetry data.
 
-[New website](https://adamlawson.uk/balloons)
+[New website](https://balloons.adamlawson.uk/)
