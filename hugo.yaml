@@ -28,8 +28,6 @@ languages:
     weight: 1
     taxonomies:
       category: categories
-      tag: tags
-      series: series
     menu:
       main:
       - name: Search
@@ -53,7 +51,7 @@ params:
   defaultTheme: light
   # disableThemeToggle: true
   ShowShareButtons: true
-  ShowReadingTime: true
+  ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true

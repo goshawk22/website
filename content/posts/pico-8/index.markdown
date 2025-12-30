@@ -2,7 +2,7 @@
 layout: post
 title:  "Pico-8: Circumnavigation"
 date:   2025-10-31 14:00:00 +0000
-categories:
+categories: balloons
 ---
 
 ## Introduction

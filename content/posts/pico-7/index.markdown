@@ -2,7 +2,7 @@
 layout: post
 title:  "Pico-7"
 date:   2025-08-14 16:00:00 +0000
-categories:
+categories: balloons
 ---
 
 ## Introduction

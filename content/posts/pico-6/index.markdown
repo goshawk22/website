@@ -2,7 +2,7 @@
 layout: post
 title:  "Pico-6: New Tracker Maiden Flight"
 date:   2025-08-14 11:00:00 +0000
-categories:
+categories: balloons
 ---
 
 ## Introduction

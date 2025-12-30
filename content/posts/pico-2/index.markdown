@@ -2,7 +2,7 @@
 layout: post
 title:  "Pico-2"
 date:   2024-12-20 17:30:00 +0000
-categories:
+categories: balloons
 ---
 We reused a left-over board we had from Pico-1. It's good to keep documentation. We learnt that the hard way.
 Once we finally figured out what we did last time and where the latest version of the code was, we tested it overnight in the garden.

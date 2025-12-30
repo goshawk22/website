@@ -2,7 +2,7 @@
 layout: post
 title:  "Pico-9: Treed it"
 date:   2025-10-31 15:00:00 +0000
-categories:
+categories: balloons
 ---
 
 ## Introduction

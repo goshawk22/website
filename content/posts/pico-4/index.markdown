@@ -2,7 +2,7 @@
 layout: post
 title:  "Pico-4"
 date:   2025-04-16 17:30:00 +0000
-categories:
+categories: balloons
 ---
 We used a Raspberry Pi Pico based WSPR tracker. It was powered by a 6 cell solar setup. We decided to use 10m WSPR due to the relative ease of managing the shorter antenna (compared to 20m) and good propagation during the day.
 

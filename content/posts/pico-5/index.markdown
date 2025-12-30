@@ -2,7 +2,7 @@
 layout: post
 title:  "Pico-5"
 date:   2025-04-16 18:00:00 +0000
-categories:
+categories: balloons
 ---
 ![Map](pico-5-map.png)
 

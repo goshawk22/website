@@ -2,7 +2,7 @@
 layout: post
 title:  "Pico-10: Winter Woes"
 date:   2025-11-01 22:00:00 +0000
-categories:
+categories: balloons
 ---
 
 ## Introduction

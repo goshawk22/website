@@ -2,7 +2,7 @@
 layout: post
 title:  "Pico-3"
 date:   2025-01-08 20:30:00 +0000
-categories:
+categories: balloons
 ---
 We used a new custom tracker design based around the Wio-E5 STM32WL (very similar to the RAK3172) module and Quectel L80R GPS module. It had a tx interval of 5 minutes and a spreading factor of SF10 was used. It was powered using a 500mAh battery taken from a disposable vape. The whole system weighed 23g, which probably ended up being 25g after all the tape and string we added.
 
