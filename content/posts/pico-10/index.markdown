@@ -59,3 +59,7 @@ After 13 days of silence, the balloon reappeared on 16/11 just 655km from where 
 ## Update 29/11/25
 
 The last prediction was wrong and the balloon traveled north again. After 10 days of silence, it reappeared on 28/11 north of Mongolia. It has since drifted north again. It has now been airborne for 2 months.
+
+## Update 03/01/26
+
+Yesterday the balloon reappeared in Germany. This marks 100 days in the air. Predictions show it will go north again. Hopefully the increasing solar angles will lead to more spots in the coming months.

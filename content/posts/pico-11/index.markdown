@@ -53,3 +53,7 @@ The following day, the tracker started up with a 0° solar angle. The float alti
 The tracker has continued to operate reliably at low solar angles and has transmitted at latitudes that would not have been possible with the previous design.
 
 Ironically, predictions show that the balloon will now drift south, where low solar angles are less of a problem.
+
+## Update 03/01/26
+
+After 14 days in the air, the balloon has completed it's first lap. It works consistently at low solar angles. Sometimes, at the start of the day, transmissions are intermittent. We believe this is due to poor GPS performance at low temperatures, similar to what happened in Pico-3.
