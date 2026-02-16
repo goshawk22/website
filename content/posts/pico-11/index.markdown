@@ -57,3 +57,13 @@ Ironically, predictions show that the balloon will now drift south, where low so
 ## Update 03/01/26
 
 After 14 days in the air, the balloon has completed it's first lap. It works consistently at low solar angles. Sometimes, at the start of the day, transmissions are intermittent. We believe this is due to poor GPS performance at low temperatures, similar to what happened in Pico-3.
+
+## Update 16/02/26
+
+After 57 days and almost 5 laps, Pico-11 seems to have gone down. It's unclear what the cause of failure was.
+
+## Next steps
+
+The current tracker seems to work well and no immediate changes are needed. The lack of data overnight makes it difficult to determine the cause of failure as this is when balloons are most likely to go down. Night time transmission would fix this issue, although it adds a whole other set of challenges.
+
+We've almost used up our current supply of hydrogen, so we're now looking into hydrogen generation.
