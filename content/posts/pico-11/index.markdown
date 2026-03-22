@@ -66,4 +66,4 @@ After 57 days and almost 5 laps, Pico-11 seems to have gone down. It's unclear w
 
 The current tracker seems to work well and no immediate changes are needed. The lack of data overnight makes it difficult to determine the cause of failure as this is when balloons are most likely to go down. Night time transmission would fix this issue, although it adds a whole other set of challenges.
 
-We've almost used up our current supply of hydrogen, so we're now looking into hydrogen generation.
+We've almost used up our current supply of helium, so we're now looking into hydrogen generation.
